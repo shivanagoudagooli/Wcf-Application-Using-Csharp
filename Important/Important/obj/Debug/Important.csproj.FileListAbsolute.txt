@@ -1,0 +1,7 @@
+C:\Users\Shivana Gowda\source\repos\Important\Important\bin\Important.dll.config
+C:\Users\Shivana Gowda\source\repos\Important\Important\bin\Important.dll
+C:\Users\Shivana Gowda\source\repos\Important\Important\bin\Important.pdb
+C:\Users\Shivana Gowda\source\repos\Important\Important\obj\Debug\Important.csprojAssemblyReference.cache
+C:\Users\Shivana Gowda\source\repos\Important\Important\obj\Debug\Important.csproj.CoreCompileInputs.cache
+C:\Users\Shivana Gowda\source\repos\Important\Important\obj\Debug\Important.dll
+C:\Users\Shivana Gowda\source\repos\Important\Important\obj\Debug\Important.pdb
